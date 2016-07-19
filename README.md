@@ -13,9 +13,9 @@ ce programme sélectionne intelligemment les chemins et les mouvements précis
 qui doivent être empruntés par ces fourmis.
 
 Ma librairie est composée de :
-- mon printf -> ft_printf
-- ma libc -> lift
-- mon get_next_line
+* mon printf -> ft_printf
+* ma libc -> lift
+* mon get_next_line
 
 Makefile : création de l'executable lem-in
 help : -h
